@@ -1,6 +1,7 @@
 clear
 sum=0
 i="y"
+j=0;
 
 echo " Enter one no."
 read n1
